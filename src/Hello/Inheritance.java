@@ -8,4 +8,7 @@ public class Inheritance extends Thursday {
 		writesomething("Inheritance");
 	}
 
+	public void justAFunction(){
+		
+	}
 }
